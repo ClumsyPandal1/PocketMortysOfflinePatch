@@ -16,7 +16,7 @@ Holding your finger on dialogue does know fast forward it.
 
 ## Installation
 
-Same as any other IPA sign it and side load.
+Same as any other IPA sign it and side load. if you don't know what this means then look online for tutorials and this is just one of the many places you can use. https://sideloadly.io/
 
 ## License
 
