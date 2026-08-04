@@ -24,7 +24,7 @@ No. This is an unofficial community preservation project and is not affiliated w
 
 ## License
 
-This repository is licensed under the GPL-3.0 License. See the **LICENSE** file for more information.
+This repository is licensed under the GPL-3.0 License.
 
 ## Disclaimer
 
