@@ -18,10 +18,6 @@ Holding your finger on dialogue does know fast forward it.
 
 Same as any other IPA sign it and side load.
 
-## Is this an official release?
-
-No. This is an unofficial community preservation project and is not affiliated with Adult Swim, Warner Bros. Discovery, Big Pixel Studios, or the original developers.
-
 ## License
 
 This repository is licensed under the GPL-3.0 License.
