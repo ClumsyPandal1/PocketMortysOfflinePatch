@@ -14,6 +14,8 @@ Holding your finger on dialogue does know fast forward it.
 
 * Some devices may experience UI or screen scaling issues. I currently don't have enough hardware to test every iPhone and iPad model, so screen size fit is gonna be unpredictable.
 
+Some specific language settings make the Campaign button so nothing, this can been fixed by changing phones language, I have already identified a fix and it will be released soon this effects both iOS and Android
+
 ## Installation
 
 Same as any other IPA sign it and side load. if you don't know what this means then look online for tutorials and this is just one of the many places you can use. https://sideloadly.io/
