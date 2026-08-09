@@ -1,3 +1,4 @@
+**GOING THROUGH MAJOR CHANGES DOWNLOADS HAVE BEEN REMOVED**
 # PocketMortysOfflinePatch
 
 Play the original **Pocket Mortys** campaign on iOS after the official servers shut down.
